@@ -1,0 +1,10 @@
+C:\Users\Felienne\Dropbox\Code\Kragle\Kragle\bin\Release\Kragle.exe.config
+C:\Users\Felienne\Dropbox\Code\Kragle\Kragle\bin\Release\Kragle.exe
+C:\Users\Felienne\Dropbox\Code\Kragle\Kragle\bin\Release\Kragle.pdb
+C:\Users\Felienne\Dropbox\Code\Kragle\Kragle\bin\Release\Scraper.exe
+C:\Users\Felienne\Dropbox\Code\Kragle\Kragle\bin\Release\System.Json.dll
+C:\Users\Felienne\Dropbox\Code\Kragle\Kragle\bin\Release\Scraper.pdb
+C:\Users\Felienne\Dropbox\Code\Kragle\Kragle\bin\Release\System.Json.xml
+C:\Users\Felienne\Dropbox\Code\Kragle\Kragle\obj\Release\KragleCore.csprojResolveAssemblyReference.cache
+C:\Users\Felienne\Dropbox\Code\Kragle\Kragle\obj\Release\Kragle.exe
+C:\Users\Felienne\Dropbox\Code\Kragle\Kragle\obj\Release\Kragle.pdb
