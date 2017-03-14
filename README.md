@@ -1,19 +1,10 @@
-This repository contains the dataset of 250K Scratch projects as described in paper "How Kids Code and How We Know: An Exploratory Study on the Scratch Repository", available here: http://dl.acm.org/citation.cfm?id=2960325
+This repository contains the dataset of 250K Scratch projects as described in paper "A Dataset of Scratch Programs: Scraped, Shaped and Scored".
 
-The dataset is in the form of CSV files in the **RawData** folder. To obtain them, clone or download this repository to a local folder and then use a file archiver (eg 7-Zip) to unzip RawData.7z.001.
+The dataset is available as:
+* a MySQL database dump, in folder [/Dataset/mySQL/](Dataset/mySQL)
+* an SQL Server database backup, in folder [/Dataset/SQL Server/](Dataset/SQL%20Server)
+* CSV files, in folder [/Dataset/CSV files/](Dataset/CSV%20files)
 
-The main file of the dataset is the allBlocks.csv. This contains, for each block used in the projects, the folowing columns:
+The JSON files of the scraped Scratch projects are available in GDrive: https://drive.google.com/file/d/0B5RLHmerPR2SZ25XMWI5SGxhbTA/view?usp=sharing
 
-1. project ID
-2. script coordinates
-3. script index
-4. stage or sprite indication
-5. sprite name
-6. indentation
-7. block index in script
-8. block type
-9. parameters
-
-The source files of the scraping program that we used for obtaining this information from the Scratch website are in the **Kragle** folder.
-
-The **PaperData** folder contains CSV files with information about extreme cases of Scratch projects.
+The source files of the scraping program that we used for obtaining this information from the Scratch website are in the [/Scraper](Scraper) folder.
