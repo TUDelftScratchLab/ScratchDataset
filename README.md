@@ -1,4 +1,4 @@
-This repository contains the dataset of 250K Scratch projects as described in paper "A Dataset of Scratch Programs: Scraped, Shaped and Scored".
+This repository contains the dataset of 250K Scratch projects as described in paper "A Dataset of Scratch Programs: Scraped, Shaped and Scored" ([preprint](http://swerl.tudelft.nl/twiki/pub/Main/TechnicalReports/TUD-SERG-2017-007.pdf)).
 
 The dataset is available as:
 * a MySQL database dump, in folder [/Dataset/mySQL/](Dataset/mySQL)
