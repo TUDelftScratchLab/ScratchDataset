@@ -1,9 +1,9 @@
 This repository contains the dataset of 250K Scratch projects as described in paper "A Dataset of Scratch Programs: Scraped, Shaped and Scored" ([preprint](http://swerl.tudelft.nl/twiki/pub/Main/TechnicalReports/TUD-SERG-2017-007.pdf)).
 
 The dataset is available as:
-* a MySQL database dump, in folder [/Dataset/mySQL/](Dataset/mySQL)
-* an SQL Server database backup, in folder [/Dataset/SQL Server/](Dataset/SQL%20Server)
-* CSV files, in folder [/Dataset/CSV files/](Dataset/CSV%20files) or on Gdrive: [/CSV files/](https://drive.google.com/drive/folders/0B12xF-yva_Z4MVAzUHBXT0c0S2s). The version on Gdrive includes headers!
+* a MySQL database dump, in Gdrive: [/MySQL/](https://drive.google.com/open?id=1zzVzLvzXFYihVyTQaouIEuWMAMf57emY)
+* an SQL Server database backup, in Gdrive: [/SQLServer/](https://drive.google.com/open?id=1A0g3HcenH2ohruqDRwIQOJ0gUl7FCUHJ)
+* CSV files, in folder [/Dataset/CSV files/](Dataset/CSV%20files) or in Gdrive: [/CSV files/](https://drive.google.com/drive/folders/0B12xF-yva_Z4MVAzUHBXT0c0S2s). The version on Gdrive includes headers!
 
 
 
